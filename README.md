@@ -4,9 +4,7 @@
 
 ![図1.2 title](title.png)
 
-っっx
-ISBNなど発行されたから書く
-
+ISBNなど発行されたら記載予定です。
 
 # 本書の構成
 各章のハイライトです。
@@ -50,7 +48,7 @@ ISBNなど発行されたから書く
 そのため1章からの解説をよりわかりやすくするために、リレーショナルデータベースの基本要素を解説する付録です。
 
 # 正誤表
-正誤表へのリンクです。
+正誤表へのリンクです。  
 [正誤表](errors.md)
 
 # 動作環境
@@ -64,29 +62,33 @@ ISBNなど発行されたから書く
 - Ubuntu 18.10 (Cosmic Cuttlefish)
 
 # 著者について
-Twitter：@yuki_saito_en
-LinkedIn: https://www.linkedin.com/in/yuki-saito-40872b217/
-Note: https://note.com/yukinkoyuki
+- Twitter：@yuki_saito_en
+- LinkedIn: https://www.linkedin.com/in/yuki-saito-40872b217/
+- Note: https://note.com/yukinkoyuki
 
 # 本書内で紹介している書籍など
 ここではビッグデータ関連書籍として、書籍内で紹介している書籍やおすすめの書籍について紹介します。
 
-[Spark: The Definitive Guide: Big Data Processing Made Simple (English Edition)](https://amzn.to/3nQ90ts)
-[Kafka: The Definitive Guide (English Edition)](https://amzn.to/3nNMcdU)
-[データ指向アプリケーションデザイン ―信頼性、拡張性、保守性の高い分散システム設計の原理](https://amzn.to/3tQh69g)
+- [Spark: The Definitive Guide: Big Data Processing Made Simple (English Edition)](https://amzn.to/3nQ90ts)
+- [Kafka: The Definitive Guide (English Edition)](https://amzn.to/3nNMcdU)
+- [データ指向アプリケーションデザイン ―信頼性、拡張性、保守性の高い分散システム設計の原理](https://amzn.to/3tQh69g)
 
 # その他補助になると考えられるもの
-本書で頻繁に出てくるSpark(Pyspark)をコード中心に駆け回ってみる講座たちです。
+本書で頻繁に出てくるSpark(Pyspark)をコード中心に駆け回ってみる講座たちです。  
 コードはGithubに公開していますので更に理解を深めるためにご利用ください。
 
 1. [「データサイエンスのための前処理入門PythonとSparkで学ぶビッグデータエンジニアリング(PySpark) 速習講座」](https://www.udemy.com/course/python-spark-pyspark/?referralCode=E67BF8B61F65866794EB)
+Gitリポジトリ  
 https://github.com/yk-st/pyspark_batch
 
-2. **[「【PythonとSparkで始めるデータマネジメント入門】 ビッグデータレイクのための統合メタデータ管理入門」](https://www.udemy.com/course/draft/4367192/?referralCode=AB48AD18D10E55DCB0E5)**
+2. [「【PythonとSparkで始めるデータマネジメント入門】 ビッグデータレイクのための統合メタデータ管理入門」](https://www.udemy.com/course/draft/4367192/?referralCode=AB48AD18D10E55DCB0E5)
+Gitリポジトリ  
 https://github.com/yk-st/pyspark_datamanagement_metadata
 
 3. **[「【データサイエンスのためのストリーミング前処理入門　PythonとSparkで始めるビッグデータストリーミング処理入門」](https://www.udemy.com/course/python-spark-streaming/?referralCode=F5E3B429A5C47468BDAD)**
+Gitリポジトリ  
 https://github.com/yk-st/pyspark_streaming
 
 4. **[「超速入門!【データサイエンスへの最初の一歩】PythonとSparkで学ぶデータ分析のための前処理と分散処理 一気見講座」](https://www.udemy.com/course/draft/4415660/?referralCode=EF89D5D240FB483AF4A1)**
+Gitリポジトリ  
 https://github.com/yk-st/pyspark_super_crush_course
