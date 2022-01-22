@@ -1,5 +1,5 @@
 # エンジニアのためのデータ分析基盤入門
-本レポジトリは、技術評論社から出版された以下の書籍 のWeb補足情報を提供するためのものです。
+本リポジトリは、技術評論社から出版された以下の書籍 のWeb補足情報を提供するためのものです。
 書籍に関する「正誤表」や関連情報をまとめています。
 
 ![図1.2 title](title.png)
@@ -62,9 +62,14 @@ ISBNなど発行されたら記載予定です。
 - Ubuntu 18.10 (Cosmic Cuttlefish)
 
 # 著者について
+普段はデータを活用する企画業務に従事  
+ビッグデータのシステム構築から活用までアドバイザリーをやっています。
+
 - Twitter：@yuki_saito_en
 - LinkedIn: https://www.linkedin.com/in/yuki-saito-40872b217/
 - Note: https://note.com/yukinkoyuki
+- MENTA(アドバイザリー):https://menta.work/member/dashboard
+- Udemy(オンライン講師): https://www.udemy.com/user/yuki-saito-7/
 
 # 本書内で紹介している書籍など
 ここではビッグデータ関連書籍として、書籍内で紹介している書籍やおすすめの書籍について紹介します。
