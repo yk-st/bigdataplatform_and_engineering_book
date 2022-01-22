@@ -65,7 +65,7 @@ ISBNなど発行されたら記載予定です。
 普段はデータを活用する企画業務に従事  
 ビッグデータのシステム構築から活用までアドバイザリーをやっています。
 
-- Twitter：@yuki_saito_en
+- Twitter：[@yuki_saito_en](https://twitter.com/yuki_saito_en)
 - LinkedIn: https://www.linkedin.com/in/yuki-saito-40872b217/
 - Note: https://note.com/yukinkoyuki
 - MENTA(アドバイザリー):https://menta.work/member/dashboard
