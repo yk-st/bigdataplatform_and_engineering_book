@@ -83,17 +83,21 @@ ISBNなど発行されたら記載予定です。
 コードはGithubに公開していますので更に理解を深めるためにご利用ください。
 
 1. [「データサイエンスのための前処理入門PythonとSparkで学ぶビッグデータエンジニアリング(PySpark) 速習講座」](https://www.udemy.com/course/python-spark-pyspark/?referralCode=E67BF8B61F65866794EB)
+
 Gitリポジトリ  
 https://github.com/yk-st/pyspark_batch
 
 2. [「【PythonとSparkで始めるデータマネジメント入門】 ビッグデータレイクのための統合メタデータ管理入門」](https://www.udemy.com/course/draft/4367192/?referralCode=AB48AD18D10E55DCB0E5)
+
 Gitリポジトリ  
 https://github.com/yk-st/pyspark_datamanagement_metadata
 
 3. [「【データサイエンスのためのストリーミング前処理入門　PythonとSparkで始めるビッグデータストリーミング処理入門」](https://www.udemy.com/course/python-spark-streaming/?referralCode=F5E3B429A5C47468BDAD)
+
 Gitリポジトリ  
 https://github.com/yk-st/pyspark_streaming
 
 4. [「超速入門!【データサイエンスへの最初の一歩】PythonとSparkで学ぶデータ分析のための前処理と分散処理 一気見講座」](https://www.udemy.com/course/draft/4415660/?referralCode=EF89D5D240FB483AF4A1)
+
 Gitリポジトリ  
 https://github.com/yk-st/pyspark_super_crush_course
