@@ -90,10 +90,10 @@ https://github.com/yk-st/pyspark_batch
 Gitリポジトリ  
 https://github.com/yk-st/pyspark_datamanagement_metadata
 
-3. **[「【データサイエンスのためのストリーミング前処理入門　PythonとSparkで始めるビッグデータストリーミング処理入門」](https://www.udemy.com/course/python-spark-streaming/?referralCode=F5E3B429A5C47468BDAD)**
+3. [「【データサイエンスのためのストリーミング前処理入門　PythonとSparkで始めるビッグデータストリーミング処理入門」](https://www.udemy.com/course/python-spark-streaming/?referralCode=F5E3B429A5C47468BDAD)
 Gitリポジトリ  
 https://github.com/yk-st/pyspark_streaming
 
-4. **[「超速入門!【データサイエンスへの最初の一歩】PythonとSparkで学ぶデータ分析のための前処理と分散処理 一気見講座」](https://www.udemy.com/course/draft/4415660/?referralCode=EF89D5D240FB483AF4A1)**
+4. [「超速入門!【データサイエンスへの最初の一歩】PythonとSparkで学ぶデータ分析のための前処理と分散処理 一気見講座」](https://www.udemy.com/course/draft/4415660/?referralCode=EF89D5D240FB483AF4A1)
 Gitリポジトリ  
 https://github.com/yk-st/pyspark_super_crush_course
