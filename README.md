@@ -4,6 +4,8 @@
 
 ![図1.2 title](title.png =350x350)
 
+<img src="title.png" width="350" height="350">
+
 ISBNなど発行されたら記載予定です。
 
 # 本書の構成
