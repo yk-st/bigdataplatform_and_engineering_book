@@ -79,7 +79,7 @@ ISBNが発行されたら追記予定です。
 - [データ指向アプリケーションデザイン ―信頼性、拡張性、保守性の高い分散システム設計の原理](https://amzn.to/3tQh69g)
 
 # その他補助になると考えられるもの
-本書で頻繁に出てくるSpark(Pyspark)をコード中心に駆け回ってみる講座たちです。  
+本書で頻繁に出てくるSpark(Pyspark)やKafka、メタデータストア、ストリーミングをコード中心に駆け回ってみる講座たちです。  
 コードはGithubに公開していますので更に理解を深めるためにご利用ください。
 
 1. [「データサイエンスのための前処理入門PythonとSparkで学ぶビッグデータエンジニアリング(PySpark) 速習講座」](https://www.udemy.com/course/python-spark-pyspark/?referralCode=E67BF8B61F65866794EB)
