@@ -6,7 +6,7 @@ description: エンジニアのためのデータ分析基盤入門
    
 <h1 id="-">エンジニアのためのデータ分析基盤入門</h1>
 <p>本リポジトリは、技術評論社から出版された以下の書籍 のWeb補足情報を提供するためのものです。書籍に関する「正誤表」や関連情報をまとめています。</p>
-<p><img src="https://github.com/yk-st/bigdataplatform_and_engineering_book/blob/994c77a6bd1510a4fc0e8a50f5f9c38cd28641bd/title.png" width="350" height="450"></p>
+<p><img src="https://github.com/yk-st/bigdataplatform_and_engineering_book/blob/3a1eced9cf09e17de28951a49d4833e33983a69e/title.png" width="350" height="450"></p>
 <p>ISBNが発行されたら追記予定です。</p>
 <h1 id="-">本書の構成</h1>
 <p>各章のハイライトです。</p>
