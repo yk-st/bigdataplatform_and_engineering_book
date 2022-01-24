@@ -1,3 +1,9 @@
+---
+layout: default
+title: エンジニアのためのデータ分析基盤入門
+description: エンジニアのためのデータ分析基盤入門
+---
+
 <html xmlns="http://www.w3.org/1999/xhtml" lang="ja">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
