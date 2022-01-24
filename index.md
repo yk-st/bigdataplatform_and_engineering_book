@@ -3,15 +3,6 @@ layout: default
 title: エンジニアのためのデータ分析基盤入門
 description: エンジニアのためのデータ分析基盤入門
 ---
-
-<html xmlns="http://www.w3.org/1999/xhtml" lang="ja">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>エンジニアのためのデータ分析基盤入門</title>
-    <link rel="stylesheet" href="_static/agogo.css" type="text/css" />
-    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-  </head>
-  <body>
    
 <h1 id="-">エンジニアのためのデータ分析基盤入門</h1>
 <p>本リポジトリは、技術評論社から出版された以下の書籍 のWeb補足情報を提供するためのものです。書籍に関する「正誤表」や関連情報をまとめています。</p>
@@ -104,6 +95,3 @@ description: エンジニアのためのデータ分析基盤入門
 <li><a href="https://www.udemy.com/course/draft/4415660/?referralCode=EF89D5D240FB483AF4A1">「超速入門!【データサイエンスへの最初の一歩】PythonとSparkで学ぶデータ分析のための前処理と分散処理 一気見講座」</a></li>
 </ol>
 <p>Gitリポジトリ<br><a href="https://github.com/yk-st/pyspark_super_crush_course">https://github.com/yk-st/pyspark_super_crush_course</a></p>
-
-  </body>
-</html>
