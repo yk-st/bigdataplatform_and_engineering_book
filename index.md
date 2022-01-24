@@ -7,8 +7,6 @@
     <title>エンジニアのためのデータ分析基盤入門</title>
     <link rel="stylesheet" href="_static/agogo.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    </script>
-    <link rel="next" title="エンジニアのためのデータ分析基盤入門の紹介" href="introduction.html" /> 
   </head>
   <body>
    
