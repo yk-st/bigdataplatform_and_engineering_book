@@ -1,7 +1,8 @@
 ---
 layout: default
 title: エンジニアのためのデータ分析基盤入門
-description: エンジニアのためのデータ分析基盤入門
+description: エンジニアのためのデータ分析基盤入門のサポートページです
+site_url: https://yk-st.github.io/bigdataplatform_and_engineering_book/
 ---
    
 <h1 id="-">エンジニアのためのデータ分析基盤入門</h1>
