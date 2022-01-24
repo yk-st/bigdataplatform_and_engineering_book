@@ -9,7 +9,7 @@
    
 <h1 id="-">エンジニアのためのデータ分析基盤入門</h1>
 <p>本リポジトリは、技術評論社から出版された以下の書籍 のWeb補足情報を提供するためのものです。書籍に関する「正誤表」や関連情報をまとめています。</p>
-<p><img src="title.png" width="350" height="450"></p>
+<p><img src="https://github.com/yk-st/bigdataplatform_and_engineering_book/blob/897a7b852816ff558007388b7246be5e36f097a3/title.png" width="350" height="450"></p>
 <p>ISBNが発行されたら追記予定です。</p>
 <h1 id="-">本書の構成</h1>
 <p>各章のハイライトです。</p>
