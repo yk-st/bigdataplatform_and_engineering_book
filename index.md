@@ -7,28 +7,13 @@
     <title>エンジニアのためのデータ分析基盤入門</title>
     <link rel="stylesheet" href="_static/agogo.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <script type="text/javascript">
-      var DOCUMENTATION_OPTIONS = {
-        URL_ROOT:    './',
-        VERSION:     '1.0.0',
-        COLLAPSE_INDEX: false,
-        FILE_SUFFIX: '.html',
-        HAS_SOURCE:  true,
-        SOURCELINK_SUFFIX: '.txt'
-      };
     </script>
-    <script type="text/javascript" src="_static/jquery.js"></script>
-    <script type="text/javascript" src="_static/underscore.js"></script>
-    <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/translations.js"></script>
-    <link rel="index" title="索引" href="genindex.html" />
-    <link rel="search" title="検索" href="search.html" />
     <link rel="next" title="エンジニアのためのデータ分析基盤入門の紹介" href="introduction.html" /> 
   </head>
   <body>
+   
 <h1 id="-">エンジニアのためのデータ分析基盤入門</h1>
-<p>本リポジトリは、技術評論社から出版された以下の書籍 のWeb補足情報を提供するためのものです。
-書籍に関する「正誤表」や関連情報をまとめています。</p>
+<p>本リポジトリは、技術評論社から出版された以下の書籍 のWeb補足情報を提供するためのものです。書籍に関する「正誤表」や関連情報をまとめています。</p>
 <p><img src="title.png" width="350" height="450"></p>
 <p>ISBNが発行されたら追記予定です。</p>
 <h1 id="-">本書の構成</h1>
