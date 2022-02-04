@@ -4,6 +4,7 @@
 
 <img src="title.png" width="350" height="450">
 
+- title : [エンジニアのためのデータ分析基盤入門](https://amzn.to/3L8kIti)
 - Publisher : 技術評論社 (February 24, 2022)
 - Publication date :  February 24, 2022
 - Language :  Japanese
