@@ -4,7 +4,12 @@
 
 <img src="title.png" width="350" height="450">
 
-ISBNが発行されたら追記予定です。
+- Publisher : 技術評論社 (February 24, 2022)
+- Publication date :  February 24, 2022
+- Language :  Japanese
+- Tankobon Softcover : 272 pages
+- ISBN-10 : 4297127245
+- ISBN-13  : 978-4297127244
 
 # 本書の構成
 各章のハイライトです。
