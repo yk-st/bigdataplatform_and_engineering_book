@@ -8,7 +8,14 @@ site_url: https://yk-st.github.io/bigdataplatform_and_engineering_book/
 <h1 id="-">エンジニアのためのデータ分析基盤入門</h1>
 <p>本リポジトリは、技術評論社から出版された以下の書籍 のWeb補足情報を提供するためのものです。書籍に関する「正誤表」や関連情報をまとめています。</p>
 <p align="center"><img src="title.png" width="350" height="450"></p>
-<p>ISBNが発行されたら追記予定です。</p>
+<p>
+Publisher : 技術評論社 (February 24, 2022)
+Publication date :  February 24, 2022
+Language :  Japanese
+Tankobon Softcover : 272 pages
+ISBN-10 : 4297127245
+ISBN-13  : 978-4297127244
+</p>
 <h1 id="-">本書の構成</h1>
 <p>各章のハイライトです。</p>
 <ul>
