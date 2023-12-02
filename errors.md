@@ -1,17 +1,37 @@
-# 初版修正情報
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>初版修正情報</title>
+</head>
+<body>
 
-## 38p 図2.2
-- 正: product_ name
-- 誤: product_name
+<h1>初版修正情報</h1>
 
-## 38p 図4.4(列指向フォーマット)
-- 正: 3
-- 誤: idが空白になっている
+<h2>38p 図2.2</h2>
+<ul>
+    <li><strong>正:</strong> product_ name</li>
+    <li><strong>誤:</strong> product_name</li>
+</ul>
 
-## 174p というように、Explain
-- 正: このように、Eplainログも一行づつ意味がありアクセス状況を読み取ることが可能です。
-- 誤: というように、Explainログからも読み取ることが可能です。
+<h2>38p 図4.4(列指向フォーマット)</h2>
+<ul>
+    <li><strong>正:</strong> 3</li>
+    <li><strong>誤:</strong> idが空白になっている</li>
+</ul>
 
-## 178p データマートの生成停止の条件を定める
-- 正: 10以下は周知の上削除
-- 誤: 10以外は周知の上削除
+<h2>174p というように、Explain</h2>
+<ul>
+    <li><strong>正:</strong> このように、Eplainログも一行づつ意味がありアクセス状況を読み取ることが可能です。</li>
+    <li><strong>誤:</strong> というように、Explainログからも読み取ることが可能です。</li>
+</ul>
+
+<h2>178p データマートの生成停止の条件を定める</h2>
+<ul>
+    <li><strong>正:</strong> 10以下は周知の上削除</li>
+    <li><strong>誤:</strong> 10以外は周知の上削除</li>
+</ul>
+
+</body>
+</html>
