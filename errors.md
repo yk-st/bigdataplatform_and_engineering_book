@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>初版修正情報</title>
-</head>
-<body>
+---
+layout: default
+title: エンジニアのためのデータ分析基盤入門
+description: エンジニアのためのデータ分析基盤入門のサポートページです
+site_url: https://yk-st.github.io/bigdataplatform_and_engineering_book/
+---
 
 <h1>初版修正情報</h1>
 
@@ -32,6 +30,3 @@
     <li><strong>正:</strong> 10以下は周知の上削除</li>
     <li><strong>誤:</strong> 10以外は周知の上削除</li>
 </ul>
-
-</body>
-</html>
